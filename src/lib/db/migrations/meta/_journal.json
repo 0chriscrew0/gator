@@ -22,6 +22,13 @@
       "when": 1762368768388,
       "tag": "0002_giant_drax",
       "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1762369252463,
+      "tag": "0003_graceful_namora",
+      "breakpoints": true
     }
   ]
 }
